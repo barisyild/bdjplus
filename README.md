@@ -21,6 +21,11 @@ Not every BD-J movie is fully compatible, if the BD-J movie is not compatible, y
 ### Installation
 Copy the patched "bdjstack.jar" file to "/system_ex/app/NPXS40140/cdc/" on your console.
 
+### Modules
+- [BDJPlus-Kernel](https://github.com/barisyild/bdjplus_kernel)
+- [BDJPlus-WebServer](https://github.com/barisyild/bdjplus_webserver)
+- [BDJPLus-Loader](https://github.com/barisyild/bdjplus_loader)
+
 ### Build Instructions (Windows)
 1. Clone the repo
 2. Copy the original "/system_ex/app/NPXS40140/cdc/bdjstack.jar" file from your console and name it "bdjstack.original.jar" and copy it to the project's home directory.
