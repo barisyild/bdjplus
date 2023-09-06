@@ -159,7 +159,7 @@ public class BDJModule {
                 }
             }
 
-            debug("BDJPlus created by Euro Ali");
+            debug("BDJPlus created by barisyild");
             debug(loadedModuleCount + " BDJPlus modules loaded");
 
             if(failedModuleCount > 0)
